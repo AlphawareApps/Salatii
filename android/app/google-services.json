@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "6085425053",
+    "firebase_url": "https://prayers-41656.firebaseio.com",
+    "project_id": "prayers-41656",
+    "storage_bucket": "prayers-41656.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6085425053:android:a9ad7c1e7ef093df44a174",
+        "android_client_info": {
+          "package_name": "com.flutterflow.salatii"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6085425053-8oa9ak56q9vebdieoa7f4m3n0kdi5bv8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.salatii",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "6085425053-3cd488gm8sa4e3ubvd84j0g4nrlsr33n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM1qeibA0XPjAuYLZ0XF1jzlUAzO_djWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6085425053-3cd488gm8sa4e3ubvd84j0g4nrlsr33n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "6085425053-dqa8uh14cbjvnaj6gpu56vlmcnofl9p9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.salatii"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
